@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sensei.NET": {
+      "commandName": "Project",
+      "commandLineArgs": "serde -v 0.8.8 -q Serialize"
+    }
+  }
+}
